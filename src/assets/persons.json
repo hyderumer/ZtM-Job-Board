@@ -11810,6 +11810,22 @@
       "country": "Canada, China"
     }
   }
+   ,{
+    "id": 833,
+    "name": "Haider umer",
+    "img": "",
+    "links": {
+      "website": "http://hyderumer.github.io/",
+      "linkedin": "https://www.linkedin.com/in/hyderumer/",
+      "github": "https://github.com/hyderumer"
+    },
+    "jobTitle": "Front-end Developer",
+    "location": {
+      "city": "Lahore",
+      "state": "Punjab",
+      "country": "Pakistan"
+    }
+  }
 
 
 ]
